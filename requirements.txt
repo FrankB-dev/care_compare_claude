@@ -1,0 +1,8 @@
+pandas
+numpy
+notebook
+matplotlib
+plotly[express]
+dash
+
+
